@@ -1,7 +1,5 @@
 package oops;
 
-import java.util.Scanner;
-
 public class MethodOverLoading {
 
 	public static void main(String[] args) {
