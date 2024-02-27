@@ -7,6 +7,7 @@ public class DaysBetweenLogic {
 	public void daysBetween(int year, int month, int day) {
 		// Define the start date
 		LocalDate startDate = LocalDate.of(year, month, day);
+		System.out.println("Start Date is...."+startDate);
 
 		// Get the present day
 		LocalDate presentDay = LocalDate.now();
