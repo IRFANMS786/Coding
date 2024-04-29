@@ -27,6 +27,12 @@ public class PrintTheMultipleofNumbers {
 			System.out.println(i * 3);
 
 		}
+		System.out.println("Multiple of 4 is....");
+		for (int i = 1; i <= n; i++) {
+
+			System.out.println(i * 4);
+
+		}
 
 	}
 
