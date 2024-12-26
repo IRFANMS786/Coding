@@ -6,4 +6,9 @@ public class Bank {
 
 	}
 
+	public static void add(int a, int b) {
+		int c = a + b;
+		System.out.println("The Addition of two Numnber a and b" + c);
+	}
+
 }

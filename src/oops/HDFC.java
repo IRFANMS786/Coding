@@ -8,5 +8,7 @@ public class HDFC extends Bank {
 	public static void main(String[] args) {
 		HDFC h1 = new HDFC();
 		System.out.println("The Rate of interest is..." + h1.getRateOfInterest());
+		Bank.add(12, 30);
 	}
+
 }
